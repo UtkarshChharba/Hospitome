@@ -2,6 +2,18 @@
 ## Project Description
 We as a team are working on project named Hospitome(Hospital & Home). In remote areas, the penetration of hospitals and doctors is low. We in this project aim to create a solution to increase the reach of medical facilities. Our project aims to create a solution that can easily detect range of diseases by taking user input with the help of an interactive bot and give reliable results using machine learning models.
 
+Every sector is revolutionizing Data Science applications, including Healthcare, IT, Media, Entertainment, and many others.
+Today, healthcare industries are utilizing the power of Data Science successfully, and in this project we are going to integrate the use of Data Science in Healthcare.
+
+This Project uses machine learning models in detection of various diseases
+1. Heart Diseases
+2. Diabetes
+3. Chronic Kidney Diseases
+4. Lung Diseases
+5. Liver Diseases
+
+
+
 ## Technologies
 * React
 * Figma (UI/UX)
