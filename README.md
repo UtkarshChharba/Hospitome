@@ -10,7 +10,7 @@ This Project uses machine learning models in detection of various diseases
 2. Diabetes
 3. Chronic Kidney Diseases
 4. Lung Diseases
-5. Liver Diseases
+5. Liver Disease
 
 We will be using different machine learning algorithms such as random forest regression, k-neighbours classifiers. We will also be using image processing, neural networks.
 
