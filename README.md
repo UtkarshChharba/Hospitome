@@ -23,7 +23,7 @@ We will be using different machine learning algorithms such as random forest reg
 We have a basic idea of these tech stacks while we learn more about it as the project is in development
 
 ## Our Team
-Our team for the software engineering project has the following members.
+Our team for the Software Engineering project has the following members.
 * Jaagrit Arora (20103021)
 * Kanika Kaur (20103057)
 * Tabish Khan (20103070)
